@@ -1,0 +1,18 @@
+.container {
+  height: max-content;
+}
+
+.labelTitle {
+  color: var(--textSoft);
+  font-size: 13;
+  font-weight: 200;
+}
+
+.labelNumber {
+  color: var(--text);
+  font-weight: 450;
+}
+
+.labelNumber tspan {
+  font-size: 35;
+}
